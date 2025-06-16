@@ -38,6 +38,8 @@ python -m venv venv
 source venv/bin/activate  # or .\venv\Scripts\activate on Windows
 pip install -r requirements.txt
 ```
+## DEMO
+https://aryanajmera18-sql-genius-app-k3uwjj.streamlit.app/
 
 ---
 
