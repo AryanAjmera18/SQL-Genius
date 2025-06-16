@@ -18,3 +18,5 @@ langchain-ollama
 streamlit
 langchain_groq
 duckduckgo-search
+SQLAlchemy
+mysql-connector-python
